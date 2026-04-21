@@ -3,15 +3,15 @@
 .eslintcache
 
 # dependencies
-/node_modules
-/.pnp
+node_modules
+.pnp
 .pnp.js
 
 # testing
-/coverage
+coverage
 
 # production
-/dist
+dist
 
 # misc
 .DS_Store
